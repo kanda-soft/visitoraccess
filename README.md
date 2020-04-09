@@ -14,6 +14,7 @@ The Visitor Access App was designed to help hospitals controlling the access of 
 ![image](assets/architecture.png)
 # Use case diagram
 ![image](assets/usecases.png)
-
+# Contact information
+<contact@kandasoft.com>
 # License
 This code is distributed under the terms and conditions of the [MIT](LICENSE)
